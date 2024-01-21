@@ -2,6 +2,7 @@
 Final Project Kelompok 4
 
 Stage - 1
+**Summary**
 1. Pekerjaan dan Pembelian Asuransi Perjalanan:
 > - Customer yang bekerja di sektor swasta cenderung lebih membeli asuransi perjalanan dibandingkan dengan mereka yang bekerja di pemerintahan.
 > - Rasio pembelian asuransi perjalanan di sektor swasta lebih tinggi lebih dari 2 kali lipat dibandingkan dengan sektor pemerintah.
