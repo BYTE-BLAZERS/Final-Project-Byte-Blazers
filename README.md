@@ -1,4 +1,4 @@
-# Final-Project-Byte-Blazers
+# Final-Project-Byte-Blazers - Stage 1
 Final Project Kelompok 4
 
 Stage - 1
